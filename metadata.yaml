@@ -1,0 +1,33 @@
+_repo: Sir-Thomas-More-or-Colloquies-on-the-Progress-and-Prospects-of-Society_4243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: vol 1 and 2.
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'More, Thomas, Saint, 1478-1535'
+- !lcc 'PR'
+- !lcsh 'Social problems'
+- GITenberg
+title: Sir Thomas More, or, Colloquies on the Progress and Prospects of Society
+url: http://www.gutenberg.org/ebooks/4243
