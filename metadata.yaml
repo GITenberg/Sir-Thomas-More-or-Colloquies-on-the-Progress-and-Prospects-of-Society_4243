@@ -1,5 +1,8 @@
 _repo: Sir-Thomas-More-or-Colloquies-on-the-Progress-and-Prospects-of-Society_4243
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Southey, Robert
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
 description: vol 1 and 2.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4243#Sir-Thomas-More-or-Colloquies-on-the-Progress-and-Prospects-of-Society
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
